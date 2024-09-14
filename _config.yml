@@ -1,4 +1,4 @@
-# Welcome to Jekyll! 
+/# Welcome to Jekyll! 
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -12,7 +12,7 @@ title                    : "HomePage"
 title_separator          : "-"
 name                     : &name "Praneet Nayak"
 description              : &description "personal description"
-url                      : https://praneet1957.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://praneet1957.github.io/Meee # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "praneet1957/Meee"
 
