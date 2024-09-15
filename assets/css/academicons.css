@@ -18,7 +18,7 @@
 @font-face {
     font-family: 'NewFontName', sans-serif; /* Change the font family name */
     font-style: normal;
-    font-weight: 400;
+    font-weight: 100;
     font-display: swap; /* Consider using 'swap' for better loading performance */
     src: url('../fonts/newfontname.eot'); /* Path to the EOT file */
     src: url('../fonts/newfontname.eot?#iefix') format('embedded-opentype'), /* IE9 Compatibility */
@@ -28,9 +28,9 @@
          url('../fonts/newfontname.svg#NewFontName') format('svg'); /* Older iOS browsers */
 }
 
-/*body {
+body {
     font-family: 'NewFontName', sans-serif; /* Fallback to a generic font family */
-}*/
+}
 
 .ai {
   font-family: 'Academicons';
