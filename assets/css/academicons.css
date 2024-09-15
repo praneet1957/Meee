@@ -20,12 +20,12 @@
     font-style: normal;
     font-weight: 100;
     font-display: swap; /* Consider using 'swap' for better loading performance */
-    src: url('../fonts/newfontname.eot'); /* Path to the EOT file */
-    src: url('../fonts/newfontname.eot?#iefix') format('embedded-opentype'), /* IE9 Compatibility */
-         url('../fonts/newfontname.woff2') format('woff2'), /* Modern browsers */
-         url('../fonts/newfontname.woff') format('woff'), /* Modern browsers */
-         url('../fonts/newfontname.ttf') format('truetype'), /* Older browsers */
-         url('../fonts/newfontname.svg#NewFontName') format('svg'); /* Older iOS browsers */
+/*    src: url('../fonts/newfontname.eot'); /* Path to the EOT file */*/
+/*    src: url('../fonts/newfontname.eot?#iefix') format('embedded-opentype'), /* IE9 Compatibility */*/
+/*         url('../fonts/newfontname.woff2') format('woff2'), /* Modern browsers */*/
+/*         url('../fonts/newfontname.woff') format('woff'), /* Modern browsers */*/
+/*        / url('../fonts/newfontname.ttf') format('truetype'), /* Older browsers */*/
+/*         url('../fonts/newfontname.svg#NewFontName') format('svg'); /* Older iOS browsers */*/
 }
 
 body {
