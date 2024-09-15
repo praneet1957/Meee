@@ -24,8 +24,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Praneet"
   pronouns         : # example: "she/her"  
-  bio              : "Mechanical Engineer"
-  location         : "India"
+  bio              : "Math, Mech & Music"
+  location         : "Bangalore, India"
   employer         : "Mercedes Benz"
   uri              : # URL
   email            : "praneetdnayak@gmail.com" 
@@ -252,6 +252,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
   # _publications
   - scope:
       path: ""

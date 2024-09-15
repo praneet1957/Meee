@@ -4,7 +4,7 @@
  *  Square icons designed to be used alongside Font Awesome square icons - https://fortawesome.github.io/Font-Awesome/
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
-@font-face {
+/*@font-face {
     font-family: 'Academicons';
     font-style: normal;
     font-weight: 400;
@@ -14,7 +14,24 @@
         url('../fonts/academicons.ttf') format('truetype'),
         url('../fonts/academicons.woff') format('woff'),
         url('../fonts/academicons.svg') format('svg');
+}*/
+@font-face {
+    font-family: 'NewFontName', sans-serif; /* Change the font family name */
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap; /* Consider using 'swap' for better loading performance */
+    src: url('../fonts/newfontname.eot'); /* Path to the EOT file */
+    src: url('../fonts/newfontname.eot?#iefix') format('embedded-opentype'), /* IE9 Compatibility */
+         url('../fonts/newfontname.woff2') format('woff2'), /* Modern browsers */
+         url('../fonts/newfontname.woff') format('woff'), /* Modern browsers */
+         url('../fonts/newfontname.ttf') format('truetype'), /* Older browsers */
+         url('../fonts/newfontname.svg#NewFontName') format('svg'); /* Older iOS browsers */
 }
+
+/*body {
+    font-family: 'NewFontName', sans-serif; /* Fallback to a generic font family */
+}*/
+
 .ai {
   font-family: 'Academicons';
   font-weight: 400;
