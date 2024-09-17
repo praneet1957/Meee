@@ -10,11 +10,6 @@ permalink: /notes/Math
 
 All my math posts here.
 
-Heading 1
+Topology
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+url : /files/Math_Notes.pdf
